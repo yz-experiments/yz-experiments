@@ -1,4 +1,6 @@
-## Hi there 👋
+# Welcome!
+
+I am a curious data scientist and data enthusiast. 
 
 <!--
 **yz-experiments/yz-experiments** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
